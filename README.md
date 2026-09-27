@@ -24,3 +24,6 @@ A simple C# .NET Windows Forms application for searching keywords inside text fi
 3. Run the application.
 4. Select a folder or search the entire system.
 5. Enter a keyword and click **Search**.
+## Screenshot
+
+![Application Screenshot](screenshot.jpg)
